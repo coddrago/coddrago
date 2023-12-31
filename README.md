@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coddrago
 - 👀 I’m interested in hikka modules
 - 📫 How to reach me @codrago in telegram
-- My chanel in telegram: @codragochanel
+- My chanel in telegram: @codragochannel
 
 <!---
 coddrago/coddrago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
