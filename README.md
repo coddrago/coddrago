@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coddrago
 - 👀 I’m interested in hikka modules
-- 📫 How to reach me @codrago in telegram
+- 📫 How to reach me: @codrago in telegram
 - My channel in telegram: @codragochannel
 
 <!---
