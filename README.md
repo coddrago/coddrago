@@ -1,9 +1,10 @@
 <img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%" alt="profile" border="0"/>
 <br/>
-<img src="github.com/C0dwiz/C0dwiz/img/AboutMe-elaina.png" width="488" />
+<img src="github.com/C0dwiz/C0dwiz/README.md/img/AboutMe-elaina.png" width="488" />
 <br/>
 <br/>
 <br/>
+
 - Name: **Tosha**
 
 - Residing in: **Russia**
