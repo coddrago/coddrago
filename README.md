@@ -31,3 +31,12 @@
   Hikka userbot modules.
 - 📘 [***coddrago/Hikka***](https://github.com/coddrago/Hikka) <br/>
   A fork of userbot Hikka.
+<p align='center'>
+    <a href="#">
+        <img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/>
+    </a> 
+    <a href="https://t.me/codrago">
+        <img src="https://img.shields.io/badge/TELEGRAM-DAC6C2?style=for-the-badge"/>
+    </a>
+    <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
+</p>
