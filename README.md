@@ -22,3 +22,12 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=coddrago&show_icons=true&icon_color=ffe32e&title_color=ffffff&text_color=ffffff&border_color=78c6fd&bg_color=45,78c6fd,5e7aef&cache_seconds=1800&locale=en" alt="coddrago" /></p>
 <br/>
+
+<img src="./img/Repo-elaina.png" width="488" />
+<br/>
+<br/>
+
+- 📗 [***coddrago/modules***](https://github.com/codsrago/modules) <br/>
+  Hikka userbot modules.
+- 📘 [***coddrago/Hikka***](https://github.com/coddrago/Hikka) <br/>
+  A fork of userbot Hikka.
