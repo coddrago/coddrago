@@ -27,7 +27,7 @@
 <br/>
 <br/>
 
-- 📗 [***coddrago/modules***](https://github.com/codsrago/modules) <br/>
+- 📗 [***coddrago/modules***](https://github.com/coddrago/modules) <br/>
   Hikka userbot modules.
 - 📘 [***coddrago/Hikka***](https://github.com/coddrago/Hikka) <br/>
   A fork of userbot Hikka.
