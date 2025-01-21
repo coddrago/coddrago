@@ -38,3 +38,5 @@
     </a>
     <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coddrago&theme=shadow_red&show_icons=true)
