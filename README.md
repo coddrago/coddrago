@@ -1,9 +1,7 @@
 <img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%" alt="profile" border="0"/>
 <br/>
 <img src="./img/AboutMe-elaina.png" width="488" />
-<br/>
-<br/>
-<br/>
+<br/><br/><br/>
 
 - Name: **Tosha**
 
