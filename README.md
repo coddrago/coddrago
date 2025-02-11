@@ -28,9 +28,10 @@
   Hikka/Heroku userbot modules.
 - 📘 [***coddrago/Heroku***](https://github.com/coddrago/Heroku) <br/>
   A fork of userbot Hikka - Heroku.
-- 🌐 [***coddrago/heroku-web***](https://github.com/coddrago/heroku-web) <br/>
+- :cupid: [***coddrago/heroku-web***](https://github.com/coddrago/heroku-web) <br/>
   Heroku web interface.
-- 🌐 [***coddrago/modules-web***](https://github.com/coddrago/modules-web) <br/>
+- :star: [***coddrago/modules-web***](https://github.com/coddrago/modules-web) <br/>
+  Modules Hikka/Heroku web interface
 <p align='center'>
     <a href="#">
         <img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/>
