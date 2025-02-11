@@ -25,9 +25,12 @@
 <br/>
 
 - 📗 [***coddrago/modules***](https://github.com/coddrago/modules) <br/>
-  Hikka userbot modules.
-- 📘 [***coddrago/Hikka***](https://github.com/coddrago/Hikka) <br/>
-  A fork of userbot Hikka.
+  Hikka/Heroku userbot modules.
+- 📘 [***coddrago/Heroku***](https://github.com/coddrago/Heroku) <br/>
+  A fork of userbot Hikka - Heroku.
+- 🌐 [***coddrago/heroku-web***](https://github.com/coddrago/heroku-web) <br/>
+  Heroku web interface.
+- 🌐 [***coddrago/modules-web***](https://github.com/coddrago/modules-web) <br/>
 <p align='center'>
     <a href="#">
         <img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/>
