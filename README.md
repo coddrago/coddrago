@@ -1,1 +1,1 @@
-<img src="https://static.codrago.life/readmegit.png" width="100%" alt="profile" border="0"/>
+<img src="https://raw.githubusercontent.com/coddrago/assets/refs/heads/main/other/readme_git.png" width="100%" alt="profile" border="0"/>
